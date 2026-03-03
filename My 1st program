@@ -1,0 +1,27 @@
+
+
+Syntax= print("------------")
+
+What is happening?
+
+print() = function
+
+"Hello Mahaling!" = string
+
+Output shown on screen
+
+print("My 1st Program")
+
+using variable 
+
+1] Name="Mhaling"
+
+ print(Name) 
+
+2] Age=27
+
+
+print(Age)
+
+3] Height=5.6
+print(Height)
