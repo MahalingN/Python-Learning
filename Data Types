@@ -1,0 +1,17 @@
+DataTypes=Data types are using to store the values,data in any formate.
+
+multiple types are there of datatypes
+str.   "Mhaling", "Yuvraj", "Divya", "Pune"
+boolean   True/False
+int      20,10,5,9,99
+float   10.9,5.8,99.9
+list   [11,2,33,65,78]
+dict    {"Name":"Value"}
+tuple
+
+
+Name="Mahling"
+Age=27
+Height=6.5
+
+print("My name is mahaling","Name,and my Age is",Age,"also my height is",Height)
